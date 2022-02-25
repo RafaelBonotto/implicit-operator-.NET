@@ -1,0 +1,16 @@
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ImplicitOperator.exe
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ImplicitOperator.deps.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ImplicitOperator.runtimeconfig.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ImplicitOperator.runtimeconfig.dev.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ImplicitOperator.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ref\ImplicitOperator.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\bin\Debug\net5.0\ImplicitOperator.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.csproj.AssemblyReference.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.AssemblyInfoInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.AssemblyInfo.cs
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.csproj.CoreCompileInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ref\ImplicitOperator.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\implicit-operator-.NET\ImplicitOperator\ImplicitOperator\obj\Debug\net5.0\ImplicitOperator.genruntimeconfig.cache
